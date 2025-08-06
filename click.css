@@ -1,0 +1,51 @@
+#Title {
+    position: absolute;
+    height: 30vh;
+    width: 50vh;
+    right: 40vw;
+    top: 6vh;
+    cursor: pointer;
+   
+}
+#bod {
+    background-color: rgb(255, 140, 169);
+    border: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  
+}
+#canv {
+    background-color: rgb(255, 207, 215);
+    position: absolute;
+   right: 38vw;
+   top: 35vh;
+     border: 10px rgb(122, 0, 82);
+     border-style: solid;
+    border-width: 6px;
+   border-radius: 10px;
+   cursor: grab;
+}
+#kma {
+    position: absolute;
+    width: 30vh;
+    height: 40vh;
+    right: 42.5vw;
+    top: 50vh;
+    cursor: grabbing;
+}
+#kma:hover {
+    width: 40vh;
+    height: 50vh;
+    right: 40vw;
+    top: 48vh;
+}
+#clicks {
+    background: border-box white;
+    border: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(255, 0, 98);
+    position: absolute;
+    top: 32vh;
+    right: 50.5vw;
+}
