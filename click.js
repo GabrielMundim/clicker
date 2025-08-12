@@ -1,4 +1,4 @@
-const canvas = document.getElementById("canv")
+
 const kma = document.getElementById("kma")
 const title = document.getElementById("Title")
 const clicks = document.getElementById("clicks")
